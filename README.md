@@ -1,4 +1,4 @@
-# Tranx
+# [Tranx](https://github.com/Tclauncher/Tranx/)
 > by Tclauncher
 > ## NOTICE
 >> #### 中文
