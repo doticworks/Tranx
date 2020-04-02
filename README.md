@@ -1,5 +1,5 @@
 # [Tranx](https://github.com/Tclauncher/Tranx/)
-> by Tclauncher
+by Tclauncher
 > ## NOTICE
 >> #### 中文
 >> 代码将会在接下来的几天上传
