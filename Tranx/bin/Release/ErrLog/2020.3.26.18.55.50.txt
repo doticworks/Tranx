@@ -1,0 +1,8 @@
+DATA:    System.Collections.ListDictionaryInternal
+MESSAGE: 集合已修改；可能无法执行枚举操作。
+SOURCE:  mscorlib
+STACK:   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   在 System.Collections.Generic.List`1.Enumerator.MoveNext()
+   在 Tranx.modules.NetBehavior.ServerChaterTran(ProgramData prog, List`1 chats)
+TARSITE: Void ThrowInvalidOperationException(System.ExceptionResource)

@@ -1,0 +1,9 @@
+DATA:    System.Collections.ListDictionaryInternal
+MESSAGE: 系统找不到指定的文件。
+SOURCE:  System
+STACK:   在 System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   在 System.Diagnostics.Process.Start()
+   在 System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   在 Tranx.modules.Sound.play()
+   在 Tranx.Program.Main(String[] args)
+TARSITE: Boolean StartWithShellExecuteEx(System.Diagnostics.ProcessStartInfo)

@@ -1,0 +1,9 @@
+DATA:    System.Collections.ListDictionaryInternal
+MESSAGE: 位于 D:\TASWEL   For launch\6006.mp3 的文件不是一个有效的波形文件。
+SOURCE:  System
+STACK:   在 System.Media.SoundPlayer.ValidateSoundFile(String fileName)
+   在 System.Media.SoundPlayer.LoadAndPlay(Int32 flags)
+   在 System.Media.SoundPlayer.Play()
+   在 Tranx.modules.Sound.play()
+   在 Tranx.Program.Main(String[] args)
+TARSITE: Void ValidateSoundFile(System.String)

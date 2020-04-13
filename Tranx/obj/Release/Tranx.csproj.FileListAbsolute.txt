@@ -1,0 +1,9 @@
+D:\TAS   MFC\CSharp\Tranx\bin\Release\Tranx.exe.config
+D:\TAS   MFC\CSharp\Tranx\bin\Release\Tranx.exe
+D:\TAS   MFC\CSharp\Tranx\obj\Release\Tranx.Chatwnd.resources
+D:\TAS   MFC\CSharp\Tranx\obj\Release\Tranx.launcher.resources
+D:\TAS   MFC\CSharp\Tranx\obj\Release\Tranx.csproj.GenerateResource.Cache
+D:\TAS   MFC\CSharp\Tranx\obj\Release\Tranx.exe
+D:\TAS   MFC\CSharp\Tranx\bin\Release\MailReporter.dll
+D:\TAS   MFC\CSharp\Tranx\obj\Release\Tranx.csprojResolveAssemblyReference.cache
+D:\TAS   MFC\CSharp\Tranx\obj\Release\Tranx.MailDebug.MailRepwin.resources

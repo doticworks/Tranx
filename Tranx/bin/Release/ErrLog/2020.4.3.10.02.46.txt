@@ -1,0 +1,6 @@
+DATA:    System.Collections.ListDictionaryInternal
+MESSAGE: 远程主机强迫关闭了一个现有的连接。
+SOURCE:  System
+STACK:   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 Tranx.modules.NetBehavior.ClientChaterOUT(ProgramData prog, Socket chat)
+TARSITE: Int32 Send(Byte[], Int32, Int32, System.Net.Sockets.SocketFlags)
